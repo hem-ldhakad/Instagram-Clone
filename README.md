@@ -30,7 +30,7 @@ Used **Axios** to communicate with the backend APIs for uploading and fetching p
 Fetched post data from the backend and rendered it dynamically in the feed.
 
 ## Form Handling
-Implemented form submission to create new posts with images and captions.
+Implemented form submission to create new posts with images and captions..
 
 ## State Management
 Managed application state using React Hooks (`useState` and `useEffect`) to update the UI dynamically.
